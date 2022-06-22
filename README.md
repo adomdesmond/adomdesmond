@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adom Desmond K. T.
-- 👀 I’m interested in reviewing software p ft products and suggesting upgrades. 
+- 👀 I’m interested in reviewing software products and suggesting upgrades. 
 - 🌱 I studied Software Engineering but i am still a novice in programming
 - 💞️ I’m looking to collaborate on Climsoft update
 - 📫 How to reach me, via adomdesmond509@gmail.com
